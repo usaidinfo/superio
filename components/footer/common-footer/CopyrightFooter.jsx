@@ -12,7 +12,7 @@ const CopyrightFooter = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              ib-themes
+              Usaid
             </a>
             . All Right Reserved.
           </div>
