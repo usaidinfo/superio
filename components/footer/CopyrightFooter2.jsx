@@ -19,7 +19,7 @@ const CopyrightFooter2 = () => {
               </Link>
             </div>
             <div className="copyright-text">
-              © {new Date().getFullYear()} Superio by{" "}
+              © {new Date().getFullYear()} CareerBridge by{" "}
               <a
                 href=""
                 target="_blank"

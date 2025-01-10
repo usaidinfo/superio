@@ -3,8 +3,8 @@ import Image from "next/image";
 import Link from "next/link";
 
 export const metadata = {
-  title: "Page Not Found || Superio - Job Borad React NextJS Template",
-  description: "Superio - Job Borad React NextJS Template",
+  title: "Page Not Found || CareerBridgeridge - Job Borad React NextJS Template",
+  description: "CareerBridgeridge - Job Borad React NextJS Template",
 };
 
 const index = () => {

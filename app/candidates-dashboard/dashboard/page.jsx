@@ -2,8 +2,8 @@ import dynamic from "next/dynamic";
 import DashboadHome from "@/components/dashboard-pages/candidates-dashboard/dashboard";
 
 export const metadata = {
-  title: "Candidates Dashboard || Superio - Job Borad React NextJS Template",
-  description: "Superio - Job Borad React NextJS Template",
+  title: "Candidates Dashboard || CareeeBrrdgeridge - Job Borad React NextJS Template",
+  description: "CareeeBrrdgeridge - Job Borad React NextJS Template",
 };
 
 const index = () => {

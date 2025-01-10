@@ -34,9 +34,9 @@ export default function RootLayout({ children }) {
         />
         <meta
           name="description"
-          content="Superio - Job Borad React NextJS Template"
+          content="CareerBridge - Job Borad React NextJS Template"
         />
-        <meta name="ibthemes" content="ATFN" />
+        <meta name="usaid" content="ATFN" />
 
         <link rel="icon" href="./favicon.ico" />
       </head>
